@@ -28,6 +28,7 @@
                 
             </div>
         </div>
+        //Hello
         <div id="stats">
                 <h2>Statistiques</h2>
                 <div id="containerStats">
